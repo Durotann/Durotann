@@ -13,14 +13,5 @@
 
 
 
-#### 4 . [waka readme](https://github.com/athul/waka-readme)
-
-Wakatime Weekly Metrics on your Profile Readme.
-<br/>
-
-📍 For example : &nbsp;
-<br/>
-
-<img src="https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png" alt="Project Preview" style="max-width: 100%;">
-<br/>
-<br/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
