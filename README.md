@@ -10,3 +10,17 @@
 + [![Test](https://img.shields.io/badge/-Test-05122A?style=flat&logo=dart)](https://dart.dev/guides/testing)    
 + [![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)](https://go.dev/)  
 + [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](https://www.docker.com/)  
+
+
+
+#### 4 . [waka readme](https://github.com/athul/waka-readme)
+
+Wakatime Weekly Metrics on your Profile Readme.
+<br/>
+
+📍 For example : &nbsp;
+<br/>
+
+<img src="https://user-images.githubusercontent.com/8397274/87243943-e6b45c00-c457-11ea-94c9-2aa0bf241be8.png" alt="Project Preview" style="max-width: 100%;">
+<br/>
+<br/>
