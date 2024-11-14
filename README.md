@@ -1,11 +1,6 @@
-<h1 align="center">Hi 👋, I'm Abdula</h1>
-<h3 align="center">A passionate frontend developer from Dagestan</h3>
+<h1 align="center">Hi 👋, I'm Rashid</h1>
+<h3 align="center">Flutter Engineer</h3>
 
-- 🔭 I’m currently working on next-pizza
-
-- 🌱 I’m currently learning Next js, Nest js
-
-- 📫 How to reach me Medjidov-A-T@yandex.ru
 
   
 ### ⚙️ Tech stack  
