@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rashid</h1>
+<h1 align="center">I'm Rashid</h1>
 <h3 align="center">Flutter Engineer</h3>
 
 
