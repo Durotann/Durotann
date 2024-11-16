@@ -26,7 +26,7 @@ jobs:
           SHOW_TIME: true # optional
           SHOW_TOTAL: true # optional
           COMMIT_MESSAGE: Updated waka-readme graph with new metrics # optional
-          SHOW_MASKED_TIME: true # optional
+          SHOW_MASKED_TIME: False # optional
           STOP_AT_OTHER: true # optional
           SHOW_SHORT_INFO: "False"
           SHOW_LOC_CHART: "False"
