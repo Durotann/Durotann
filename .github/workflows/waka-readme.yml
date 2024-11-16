@@ -17,7 +17,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # required
           ### content
-          SHOW_TITLE: true # optional
+          SHOW_TITLE: False # optional
           SECTION_NAME: waka # optional
           BLOCKS:  ░▒▓█ # optional
           CODE_LANG: Flutter # optional
