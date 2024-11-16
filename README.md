@@ -12,8 +12,8 @@
 + [![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)](https://www.docker.com/)  
 
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durotann)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durotann)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--START_SECTION:waka-->
