@@ -19,9 +19,9 @@
 <!--START_SECTION:waka-->
 
 ```Flutter
-Total Time: 1,308 hrs 59 mins
+Total Time: 1,309 hrs 47 mins
 
-Dart              1,206 hrs 41 mins███████████████████████░░   92.03 %
+Dart              1,206 hrs 41 mins███████████████████████░░   91.97 %
 Go                34 hrs 24 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.62 %
 Other             2 hrs 13 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
