@@ -16,15 +16,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Durotann)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<!--START_SECTION:waka-->
 
-```Flutter
-Total Time: 1,075 hrs 54 mins
-
-Dart              979 hrs 28 mins ██████████████████████▓░░   90.91 %
-Go                25 hrs 33 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
-Other             1 hr 30 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
-```
-
-<!--END_SECTION:waka-->
 
